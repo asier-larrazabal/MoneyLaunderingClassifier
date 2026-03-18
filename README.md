@@ -15,5 +15,5 @@ source .venv/bin/activate
 Install dependencies:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn optuna lightgbm xgboost kagglehub
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn optuna lightgbm xgboost kagglehub gdown
 ```
